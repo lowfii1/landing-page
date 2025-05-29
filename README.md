@@ -26,4 +26,4 @@ Uma landing page simples, moderna e responsiva para apresentar meus serviços co
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/lowfii1/landing-page.git
+git clone https://github.com/lowfii1/landing-page
